@@ -1,4 +1,4 @@
-## Welcome to OSSF(Open Source Software Foundation) GitHub Pages
+## Welcome to OSSF(Open Source Software Foundation) GitHub HomePages
 
 You can use the [editor on GitHub](https://github.com/ossfgithub/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
