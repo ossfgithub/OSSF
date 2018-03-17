@@ -1,12 +1,9 @@
 ## Welcome to OSSF(Open Source Software Foundation) GitHub HomePages
 
-You can use the [editor on GitHub](https://github.com/ossfgithub/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 공개SW 역량강화 실무자 동영상
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[1.실무자교육소개] (https://www.youtube.com/watch?v=S7D4ljMaQM&index=1&list=PLp4VfdYRwIgL42ghqfzFBxuDZ5GujGk1&index=1)
 
 ```markdown
 Syntax highlighted code block
