@@ -3,9 +3,9 @@
 
 ### 공개SW 역량강화 실무자 동영상
 
-
-
-
+[] (
+https://www.youtube.com/playlist?list=PLp4VfdYRwIgL42ghqfzFBxuDZ5GujGkI1
+)
 
 ### 공개SW 역량강화 책임자 영상
 
